@@ -376,6 +376,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GitUseExample/GitUseExample-Prefix.pch";
 				INFOPLIST_FILE = "GitUseExample/GitUseExample-Info.plist";
@@ -389,6 +390,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GitUseExample/GitUseExample-Prefix.pch";
 				INFOPLIST_FILE = "GitUseExample/GitUseExample-Info.plist";
@@ -456,6 +458,7 @@
 				5FDB89F218ED192D00642D33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5FDB89F318ED192D00642D33 /* Build configuration list for PBXNativeTarget "GitUseExampleTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +467,7 @@
 				5FDB89F518ED192D00642D33 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
